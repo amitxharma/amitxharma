@@ -2,11 +2,11 @@
 <h3 align="center">Welcome to my GitHub world! a code wizard on a mission to turn coffee into code</h3>
 
 <center>
-  <img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" height="300" alt="coding-image">
+  <img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" height="200" alt="coding-image">
 </center>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitxharma" alt="amitxharma" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/amitsha73893300" target="blank"><img src="https://img.shields.io/twitter/follow/amitsha73893300?logo=twitter&style=for-the-badge" alt="amitsha73893300" /></a> </p>
 
