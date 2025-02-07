@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,JAVA,DSA**
 
-- 📫 How to reach me **thisisamit108@gmail.com**
+- 📫 How to reach me **amit.work777@gmail.com**
 
 - ⚡ Fun fact **I'm funny**
 
