@@ -1,36 +1,73 @@
-<h1 align="center">Hi 👋, I'm Amit Sharma</h1>
-<h3 align="center">Welcome to my GitHub world! a code wizard on a mission to turn coffee into code</h3>
-
-<center>
-  <img src="https://repository-images.githubusercontent.com/340868117/f2b32a00-cc75-11eb-8bf8-1bf1990e8868" height="200" alt="coding-image">
-</center>
-
-
-
-
-<p align="left"> <a href="https://twitter.com/amitsha73893300" target="blank"><img src="https://img.shields.io/twitter/follow/amitsha73893300?logo=twitter&style=for-the-badge" alt="amitsha73893300" /></a> </p>
-
-- 🔭 I’m currently working on **shopping application**
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 💬 Ask me about **HTML,CSS,JS,BOOTSTRAP,JAVA,DSA**
-
-- 📫 How to reach me **amit.work777@gmail.com**
-
-- ⚡ Fun fact **I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amitsha73893300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitsha73893300" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-sharma-787b871b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-sharma-787b871b4/" height="30" width="40" /></a>
-<a href="https://instagram.com/amitsharma498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amitsharma498" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit_sharma498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_sharma498" height="30" width="40" /></a>
+<!-- Banner (optional custom image) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=192&color=gradient&text=Amit%20Sharma&reversal=false&textBg=false&fontAlign=50&fontAlignY=39&animation=twinkling" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/AmanAssassin">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40EDF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Maurya!;Web+Developer+%2F+;Tech%2C+Design%2C+and+Code!" alt="Typing SVG" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitxharma&show_icons=true&locale=en&layout=compact" alt="amitxharma" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitxharma&show_icons=true&locale=en" alt="amitxharma" /></p>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+### 🚀 About Me
+
+- 💻 Passionate Web Developer & Competitive Programmer.
+- 🌱 Currently learning DSA, Firebase, and Full-Stack development.
+- 🔥 Building cool projects, solving real-world problems.
+- 🤝 Open to collaboration and contributions.
+
+---
+
+### 🧠 Languages & Tools
+
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,python,git,github,firebase,docker,tailwind,figma,vscode,linux,vercel,&perline=10" />
+</div>
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmanAssassin&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanAssassin&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+---
+
+### 📌 Pinned Projects
+
+- 🔗 [Crypto Market](https://crypto-market-rho.vercel.app/) — React + Firebase + Live Crypto Data
+- 🔗 [Portfolio](https://amanmdev.vercel.app/) — React Portfolio with Glassmorphism & Animations
+
+---
+
+<!-- 🌐 Connect with Me --><h3 align="center">📫 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-maurya73/" target="_blank">
+    <img src="https://img.shields.io/badge/Aman Maurya-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>      
+  <a href="mailto:amanmaurya112233@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/amanmaurya112233@gmail.com-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a> 
+  <a href="https://twitter.com/amanm_dev" target="_blank">
+    <img src="https://img.shields.io/badge/@amanm_dev-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a> 
+</p>
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanAssassin/AmanAssassin/output/snake.svg" alt="Snake animation" />
+
+</p>
+
+---
