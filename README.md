@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/amitxharma">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40EDF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Sharma!;Frontend+%2F+MERN+Developer;Tech+Enthusiast+%26+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=40EDF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Amit+Sharma!;MERN+Developer+%7C+React+Native+Learner;Tech+Support+Engineer+at+Cognizant;Full-Stack+Project+Builder+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,19 +16,69 @@
 
 ### 🚀 About Me
 
-- 💻 MERN Stack Developer with a passion for crafting interactive UIs.
-- 🌱 Currently learning React Native, Firebase, and scalable backend systems.
-- 🔥 Working on impactful projects & real-world problem solving.
-- 🤝 Open to collaborations and freelance opportunities.
+- 👨‍💻 MERN Stack Developer | Technical Support Engineer (Google Ads @ Cognizant)
+- 🔍 Experienced in debugging JavaScript, APIs, and browser rendering issues
+- 🌱 Currently learning React Native, Firebase, and advanced backend design
+- 🛠️ Previously interned at TurningCloud (Frontend) and Vizva Consultancy (Tech Consultant)
+- 🤝 Open to freelance, collaborations, and impactful product work
 
 ---
 
 ### 🧠 Languages & Tools
 
-<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,cpp,java,python,git,github,firebase,tailwind,figma,vscode,linux,vercel&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,cpp,java,python,git,github,firebase,tailwind,materialui,figma,vscode,linux,vercel,postman" />
 </div>
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 [**AI Resume Builder**](https://resume-builder-eosin-eight.vercel.app)  
+  `React + TS + Zustand + Gemini API`  
+  → AI-powered resume generator with state management, MUI, and animations.
+
+- 🔗 [**PasteShare – Code Sharing Platform**](https://p-fawn.vercel.app)  
+  `MERN Stack + Prism.js`  
+  → Share syntax-highlighted code snippets with expiration features.
+
+- 🔗 [**MeShop E-commerce App**](https://shopping-brown-chi.vercel.app)  
+  `HTML + CSS + JS`  
+  → Functional frontend shopping cart with product/user session logic.
+
+---
+
+### 💼 Work Experience
+
+- 🏢 **Cognizant (Google Ads)** – _Technical Support Engineer_  
+  _Mar 2025 – Present_ | Gurgaon  
+  → Resolved 150+ Level-2 cases using HAR logs & Chrome DevTools  
+  → Optimized tagging/debugged API issues to improve ad delivery by 8%
+
+- 🧠 **Vizva Consultancy** – _Technical Consultant_  
+  _Jul 2024 – Dec 2024_ | Lucknow  
+  → Recommended architecture changes (micro-frontends, state refactors)  
+  → Boosted frontend performance by 15% via audits & lazy loading
+
+- 💻 **TurningCloud Solutions** – _Frontend Developer Intern_  
+  _Jan 2024 – Jun 2024_ | Remote  
+  → Migrated Supplymint platform to Next.js + Tailwind  
+  → Cut load time by 20%, enhanced data-fetching efficiency
+
+---
+
+### 🎓 Education
+
+- **B.Tech CSE**, *School of Management Sciences – Lucknow*  
+  CGPA: 7.8/10 (2019 – 2023)
+
+---
+
+### 🧩 Problem Solving & Involvement
+
+- 🧠 Solved 200+ coding problems on LeetCode, GFG, and HackerRank  
+- ⭐ 4-Star SQL on HackerRank  
+- 🧑‍🏫 Facilitated Code-E-Thon @ Ingenuity 2k22 college fest
 
 ---
 
@@ -41,15 +91,7 @@
 
 ---
 
-### 📌 Pinned Projects
-
-- 🔗 [Career Guidance Platform (MERN)](https://your-project-link.vercel.app) — Full-stack site to help students choose careers.
-- 🔗 [AI Image Generator](https://your-project-link.vercel.app) — Generate & download AI images by category.
-- 🔗 [Portfolio](https://your-portfolio-link.vercel.app) — React-based animated portfolio with a clean UI.
-
----
-
-<h3 align="center">📫 Let's Connect</h3>
+### 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amit-sharma-787b871b4/" target="_blank">
